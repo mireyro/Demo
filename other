@@ -1,0 +1,37 @@
+Verify Product Details: Ensure that the product details (name, price, description, etc.) displayed on the product page match the actual product details.
+
+Search Functionality: Test the search functionality by searching for products with different keywords and verifying that relevant results are displayed.
+
+Sorting and Filtering: Test sorting and filtering options (by price, popularity, etc.) to ensure they work correctly and display the expected results.
+
+Add to Wishlist: Verify that users can add products to their wishlist and that the wishlist reflects the selected items accurately.
+
+Product Comparison: Test the ability to compare products by selecting multiple products and comparing their features, prices, etc.
+
+Availability Check: Check the availability of products by adding them to the cart and verifying that out-of-stock products cannot be added.
+
+Quantity Selection: Ensure users can select the desired quantity of products and that the price updates accordingly.
+
+View Cart: Verify that the cart page displays all selected products with their details (name, price, quantity, etc.) accurately.
+
+Remove from Cart: Test the ability to remove products from the cart and ensure the cart updates accordingly.
+
+Continue Shopping: Verify that users can continue shopping after adding products to the cart and that the selected items remain in the cart.
+
+Guest Checkout: Test the checkout process without logging in to an account and ensure it functions correctly.
+
+Registered User Checkout: Test the checkout process for registered users, ensuring that user information is pre-filled and that the process is smooth.
+
+Shipping Options: Test selecting different shipping options and verify that shipping costs are calculated accurately.
+
+Payment Options: Test different payment methods (credit card, PayPal, etc.) and ensure they work correctly without any errors.
+
+Order Summary: Verify that the order summary displayed before finalizing the order includes all selected products, prices, taxes, and shipping costs.
+
+Order Confirmation: After completing the order, verify that users receive an order confirmation email with the correct details.
+
+Cross-browser Testing: Test the selection of an order across different web browsers (Chrome, Firefox, Safari, Edge, etc.) to ensure compatibility.
+
+Responsive Design Testing: Test the selection of an order on different devices (desktop, mobile, tablet) to ensure the user experience is consistent and optimized.
+
+Localization Testing: If the store supports multiple languages or regions, test the selection of an order in different languages/regions to ensure translations and regional settings are accurate.
